@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="//github.com/AHMATUNYU2/AVSBOT2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caliph91&repo=bot-whatsapp&theme=tokyonight" />
+  <a href="//github.com/AHMATUNYU2/AVSBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmatunyu2&repo=AVSBOT&theme=tokyonight" />
    </a>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@
 # Termux
 ```bash
 > pkg install git -y
-> git clone https://github.com/AHMATUNYU2/AVSBOT2.git
+> git clone https://github.com/AHMATUNYU2/AVSBOT.git
 > cd bot-whatsapp
 > bash install.sh
 > node index
@@ -48,7 +48,7 @@
 * Any text editor
 
 ## 🧾 Installing the Tesseract
-* Download the file [here](https://clph.pw/tesseract).
+* Download the file [here](https://AHMATUNYU2.pw/tesseract).
 * After that, run downloaded file as Administrator.
 * Complete the installation.
 * Run Command Prompt as Administrator.
