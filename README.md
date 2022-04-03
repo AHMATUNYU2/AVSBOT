@@ -12,7 +12,7 @@
    </a>
 </p>
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/Author-AHMATUNYU2-red.svg?style=for-the-badge&logo=github"/><a/>
+<a href=""><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
 </p>
 <p align="center">
 <a href="https://javascript.com"><img src="https://img.shields.io/badge/Made%20With-javascript-cyan.svg?style=for-the-badge&logo=javascript"/><a/>
